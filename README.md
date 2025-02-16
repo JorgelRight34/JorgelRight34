@@ -9,11 +9,14 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JorgelRight34/JorgelRight34/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JorgelRight34/JorgelRight34/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JorgelRight34/JorgelRight34/output/github-snake.svg" />
 </picture>
 
 
 <div align="left">
+   <a href="https://jorgelorenzom.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=J&logoColor=black" height="35" alt="portfolio logo" />
+  </a>
   <a href="jorge.elm30@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>

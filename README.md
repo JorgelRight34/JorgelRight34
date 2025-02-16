@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="left">Hey there 👋!</h1>
 
-<!--
-**JorgelRight34/JorgelRight34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Full stack developer, computer science student at UNPHU. Specialized in Python, C#,<br>JavaScript and software development. I developed a planner for UNPHU students with 300+ active users.<br>I have 7 certifications, including 4 from Harvard (CS50). More at https://jorgelorenzom.vercel.app/.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+ <img src="https://skillicons.dev/icons?i=python,cs,javascript,java,django,net,flask,react,express,nodejs" />
+</div>
+
+###

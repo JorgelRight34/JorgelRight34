@@ -6,7 +6,7 @@
 
 ###
 
-![GitHub Contribution Snake](https://github.com/your-username/your-username/raw/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://github.com/JorgelRight34/JorgelRight34/raw/output/github-contribution-grid-snake.svg)
 
 ###
 

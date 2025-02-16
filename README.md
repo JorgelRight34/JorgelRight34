@@ -6,6 +6,10 @@
 
 ###
 
+![GitHub Contribution Snake](https://github.com/your-username/your-username/raw/output/github-contribution-grid-snake.svg)
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###

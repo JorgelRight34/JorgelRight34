@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Full stack developer, computer science student at UNPHU. Specialized in Python, C#,<br>JavaScript and software development. I developed a planner for UNPHU students with 300+ active users.<br>I have 7 certifications, including 4 from Harvard (CS50). More at https://jorgelorenzom.vercel.app/.</p>
+<p align="left">I'm a full stack developer, computer science student at UNPHU. Specialized in Python, C#,<br>JavaScript and software development. I developed a planner for UNPHU students with 300+ active users.<br>I have 7 certifications, including 4 from Harvard (CS50). More at https://jorgelorenzom.vercel.app/.</p>
 
 ###
 

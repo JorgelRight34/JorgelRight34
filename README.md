@@ -32,7 +32,7 @@
 ###
 
 <div align="left">
- <img src="https://skillicons.dev/icons?i=python,cs,javascript,typescript,django,net,flask,react,angular,express,redux" />
+ <img src="https://skillicons.dev/icons?i=python,cs,javascript,typescript,django,net,flask,react,angular,express,redux,nodejs" />
 </div>
 
 ###

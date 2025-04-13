@@ -1,8 +1,12 @@
-<h1 align="left">Jorge Lorenzo👨🏽‍💻</h1>
+<h1 align="left">Jorge Lorenzo</h1>
 
 ###
 
-<p align="left">I'm a full stack developer and computer science student at Universidad Nacional Pedro Henríquez Ureña (UNPHU). Specialized in developing solutions with React, React Native, Angular, .NET and Django<br> I developed an Academic Planner for UNPHU students used by 300+ active users.<br>I have multiple certifications, including 4 from Harvard (CS50).
+<p align="left">I'm a full stack developer👨🏽‍💻 and computer science student at Universidad Nacional Pedro Henríquez Ureña (UNPHU).
+<br>Specialized in developing solutions with React, React Native, Angular, .NET and Django
+<br>I developed an Academic Planner for UNPHU students used by 300+ active users.
+<br>I have multiple certifications, including 4 from Harvard (CS50).
+</p>
   
 Feel free to see my [portfolio](https://jorgelorenzom.vercel.app/) and read my [resume](https://drive.google.com/file/d/1TWkrbmg9o_PVAdAxOGTjLpOwRBNc4z7E/view)
 
